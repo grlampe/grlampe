@@ -28,14 +28,9 @@ I'm a dedicated full-stack developer with over three years of experience in soft
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="42px"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="42px"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="42px"/> 
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" height="42px"/> 
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height="42px"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="42px"/> 
 </div>
 <br/>
 <br/>
-<br/>
-
 
 ### 📊 Github Stats
 
