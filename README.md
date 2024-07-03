@@ -3,12 +3,15 @@
 <a href = "mailto:grlampe0@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <br/>
 
-I'm a dedicated full-stack developer with over three years of experience in software engineering, specializing in both front-end and back-end development. My expertise lies in utilizing technologies like NestJS, Angular, TypeScript, and JavaScript to create high-quality, scalable, and easy-to-use applications that address real-world problems and add value to users.
+I'm a developer with years of experience in software development and architecture.
+
+I have solid experience in databases, automated testing, microservices architecture, queue services and software development. In addition to great interest in learning new technologies and development strategies.
+
+My goal is to create high-quality, scalable applications that solve real-world problems and add value.
   
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **[Linque Pagamentos](https://github.com/grlampe?tab=repositories)**
-- 👨🏻‍💻 &nbsp; Most of my projects are available on **[Github](https://github.com/grlampe?tab=repositories)**
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on **[LinkedIn](https://www.linkedin.com/in/gabriellampe/)**
 
